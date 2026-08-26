@@ -1,0 +1,6 @@
+{
+  "name": "Samanvay",
+  "description": "Unified Public Services & Grievance Platform connecting Citizens, Officers, and Higher Authorities with intelligent routing and eligibility verification.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
